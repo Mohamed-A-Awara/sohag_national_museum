@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --backColorFooter : #CAAD7A;
+    --backCopyrightFooter : #44302C;
+    --bookBackgound : #7A4F46;
+    --navtextColor : #7A5343;
+}
+.nav-height {
+    height: 100px !important;
+}
+
+.header-links a a {
+    /* width: auto !important; */
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+    color: var(--navtextColor);
+    transition: 0.5s;
+}
+.header-links a a:hover {
+    color: black;
+}
+.btn-sign , .btn-book {
+    text-transform: capitalize;
+    font-weight: 600;
+    border-color: #7A4F46;
+    color: white;
+    /* border-radius: 0px !important; */
+}
+.btn-book {
+    background-color: var(--bookBackgound) ;
+}
+.btn-book:hover{
+    outline: none;
+    background-color: var(--backColorFooter);
+    color: black;
+}
+.btn-sign{
+    color:  var(--navtextColor);
+}
+.btn-sign:hover{
+    background-color: var(--backColorFooter);
+    color: black;
+}
+
+
+/* Responsive CSS Style   */
+@media screen and (max-width: 768px) {
+    .nav-small {
+        width: 130%;
+        height: auto;
+        background-color: rgba(255, 255, 255, 1);
+        border: 2px solid #7A4F46;
+        border-radius: 15px;
+        padding: 25px;
+
+    }
+    .nav-small nav  , .nav-small form {
+        margin-left: 10px !important;
+    }
+}        
