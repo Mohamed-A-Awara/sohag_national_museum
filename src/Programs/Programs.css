@@ -8,6 +8,7 @@
     --backCopyrightFooter : #44302C;
     --fontColorConent : #7A4F46;
 }
+
 .head_section{
     width: 100%;
     background-color:var(--backColorFooter) ;
@@ -16,6 +17,7 @@
     font-weight: 700;
     padding:1% 5%;
     margin-bottom: 5%;
+    letter-spacing:2px;
 }
 .sec1{
     margin: 7%;
@@ -24,14 +26,15 @@
     color:var(--fontColorConent);
     font-size: 25px;
     font-weight: 600;
+    letter-spacing:1px;
 }
 .sec1 .sec1_p3{
     color:var(--fontColorConent);
     font-size: 40px;
     font-weight: 700;
-    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin-top: 5%;
+    letter-spacing:1px;
 
 }
 .image{
@@ -108,6 +111,7 @@
     color:var(--fontColorConent);
     font-size: 20px;
     font-weight: 600;
+    letter-spacing:1px;
 }
 .sec5{
     margin: 7% 18%;
@@ -132,6 +136,7 @@
 }
 .sec5_div1 #p1{
     margin: 0 4%;
+    letter-spacing:1px;
 }
 .sec5_div2{
     display: flex;
@@ -146,6 +151,7 @@
 .sec5_div3 p{
     margin-top: 3%;
     margin-bottom: 5%;
+    letter-spacing:1px;
 }
 .sec11{
     display: flex;
@@ -174,13 +180,14 @@
     color:var(--fontColorConent);
     font-size: 20px;
     font-weight: 600;
+    letter-spacing:1px;
 }
 
 
 /* ///////////////////media query////////////////////////////////////// */
 @media  (max-width:480px){
     .head_section{
-        font-size: 20px;
+        font-size: 23px;
         text-align: center;
     }
 
@@ -201,6 +208,7 @@
         width: 80%;
         height: 200px;
         padding: 5% auto;
+        box-shadow: 5px 5px 4px 4px #dfe0df;
     }
     .text{
         width: 80%;
@@ -218,6 +226,7 @@
 
     .sec3_div, .sec4_div{
         width: 70%;
+        box-shadow: 5px 5px 4px 4px #dfe0df;
     }
 
     .sec3_div p ,.sec4_div p, .sec5_div1 p ,.sec5_div3 p{
@@ -227,10 +236,15 @@
     .sec5_div2 img{
         width: 80%;
         margin-bottom: 10%;
+        box-shadow: 5px 5px 4px 4px #dfe0df;
+    }
+    .sec5_div1{
+        box-shadow: 5px 5px 4px 4px #dfe0df;
     }
     
     .sec11_div{
         width: 80%;
+        box-shadow: 5px 5px 4px 4px #dfe0df;
     }
     .sec11_div p{
         font-size: 17px;
@@ -364,7 +378,5 @@
 /* ///////////////////////////////////////////////////////////////////////////////////////// */
 @media (min-width:1024px){
 
- 
+
 }
-
-
