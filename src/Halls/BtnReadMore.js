@@ -1,6 +1,8 @@
 import Accordion from 'react-bootstrap/Accordion';
 import { useAccordionButton } from 'react-bootstrap/AccordionButton';
 import './Halls.css'
+import BtnReadMore from './BtnReadMore'
+import './BtnReadMore.css'
 
 
 
