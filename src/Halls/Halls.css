@@ -319,19 +319,6 @@
 }
 
 
-
-
-.btn-readMore {
-    border: none; 
-    background-color: white;
-    cursor: pointer;
-    color: rgb(34, 34, 240);
-    font-size: 18px;
-    font-weight: 600;
-    letter-spacing: 1px;
-    transition: 1s;
-}
-
 .Sixth-list {
     list-style: '📜 ' !important;
 }
