@@ -6,6 +6,7 @@
     "overviewHeader" : "An Overview Of The Museum",
     "overviewText" : "The location of the Sohag Museum on the shore of the Nile was chosen to emphasize the role of the Nile River in the stability and prosperity of civilization. The museum is located on an area of ​​approximately 5,600 square meters and consists of two floors and a basement",
     "btnLearn" : "Learn more",
+    "ReadLess" : "Read Less ",
     "Exhibitions" :"Our Exhibitions",
     "nameStatue" : "{{name}}",
     "News" : "News & Activities",
@@ -27,5 +28,26 @@
     "footerText2" :"© 2024 Team  . All rights reserved.",
     "Sitemap" : "Sitemap",
     "Login" : "Login",
-    "Connect" : "Connect"
+    "Connect" : "Connect",
+    "overviewPageText" :"The location of the Sohag Museum on the shore of the Nile was chosen to emphasize the role of the Nile River in the stability and prosperity of civilization.",
+    "overviewTextMore" : "The museum is located on an area of ​​approximately 5,600 square meters and consists of two floors and a basement.The museum displays the most important artifacts excavated from various sites in the governorate amounting to more than 7,000 artifacts. The museum is unique in displaying a number of rare mummies. ",
+    "overvviewText2" : "The museum display deals with the most important Pharaonic kings of Egypt who emerged from the land of Sohag. It also sheds light on the ancient Egyptian religion and the ritual pilgrimage to Abydos.",
+    "overviewTextMore2" :"in addition to the popular heritage of the governorate and its most important crafts and industries. The Sohag Museum was designed from the outside in the shape of the Temple of Seti I, Babidos, the center of the Balina. The museum was opened on August 12, 2018 in the presence of Mr. Abdel Fattah El-Sisi , President of the Arab Republic of Egypt, Dr. Mostafa Madbouly, Prime Minister, and some ministers. The total cost of the museum amounted to 72 million pounds.",
+    "Exhibitionheader" : "Museum Exhibition Halls",
+    "extext1" : "The museum contains eight halls for displaying antiquities. These halls contain 963 antiquities, including antiquities inside the two showcases and pieces displayed on an external display,",
+    "extextmore" :"in addition to an antiquities store in the basement containing approximately 2,100 antiquities. All the artifacts were extracted from archaeological sites in Sohag Governorate, such as Abydos, Al-Raqaqnah, Al-Mansha’a, Akhmim,Al-Hawaweesh, Sheikh Hamad, and the village of Edfa.",
+    "MuseumDisplay" :"Museum Display",
+    "MuseumDisplayText" : "The display in the museum depends on the thematic display method, meaning that each hall talks about a topic in itself, as artifacts from different historical eras were chosen for one topic.",
+    "MuseumDisplayTextmore" : "A statue of the goddess Sekhmet was placed on the right and left of the interior of the museum’s antiquities display halls as a form of protection and strength for the place where Sekhmet(the goddess of war and power among the ancient Egyptians) lived. ",
+    "MuseumDisplayText2" : "The second floor contains the changing exhibition hall and is reached through the ascending stairs to the right of the entrance.",
+    "MuseumDisplayTextmore2" : "This hall has been designated for holding four archaeological exhibitions throughout the year through the artifacts stored in the museum’s     warehouse or for holding exhibitions that keep pace with events that may occur on the local and international scene.",
+
+
+    "VisitingDates"  : "Visiting Dates",
+    "VisitingDatestext" : "The museum is open to receive visitors daily from 9:00 A.m to 4:00 p.m",
+    "Policies" : "Visitor Policies And Guidelines",
+    "PoliciesText" : "In the context of caring for visitors and providing an enjoyable experience when visiting the museum, please adhere to the visitation controls and guidelines, to preserve the museum environment and its exhibits, as well as to ensure a safe and enjoyable visit",
+    "polText1" : "Items that are not allowed to be brought inside the museum and its halls",
+    "polText2" : "In order to protect the exhibits and to maintain a safe environment where the visitor can appreciate the exhibits comfortably, please confirm with the following regulations:",
+    "pol1Rule" : "Large bags, large backpacks, luggage, or parcels larger than 40 x 40 cm are not permitted into the museum; you can store them in the cloakroom."
 }
